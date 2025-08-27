@@ -19,6 +19,9 @@ ninja.data = [{
         },{id: "news-happy-to-share-agentxploit-is-now-on-arxiv-and-that-cosmic-is-now-accepted-to-acl-2025",
           title: 'Happy to share AgentXploit is now on arxiv and that COSMIC is now...',
           description: "",
+          section: "News",},{id: "news-excited-to-share-that-i-m-transferring-to-continue-my-phd-at-ucsc-alongside-my-advisor-additionally-agentxploit-was-accepted-to-emnlp-2025",
+          title: 'Excited to share that I’m transferring to continue my PhD at UCSC alongside...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
